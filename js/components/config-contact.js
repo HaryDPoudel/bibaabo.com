@@ -45,8 +45,8 @@
                 });
 
                 map.addMarker({
-                  lat: 27.723991,
-                  lng: 85.320705,
+                  lat: 27.7239916254439,
+                  lng: 85.32070514095943,
                   icon: template_url + "images/map_marker.png",
                 });
 
